@@ -1,4 +1,6 @@
 # Sparks-Foundations-Tasks
-this repo contains Data Science and Business Analytics tasks assigned by the Sparks Foundation
+This Repo contains Data Science and Business Analytics tasks assigned by the Sparks Foundation
 
-task1 : prediction using popular ML algorithm Linear Regression
+Task1 : Prediction using popular ML Supervised algorithm Linear Regression
+
+Task2 : Prediction using Unsupervised ML algorithm KMeans Clustering on Iris Dataset
